@@ -1,0 +1,11 @@
+.menu{
+    background-color: lightsalmon;
+    padding: 10px 15px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #fff;
+    margin: 10px;
+}
